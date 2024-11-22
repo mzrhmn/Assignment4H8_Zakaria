@@ -1,0 +1,8 @@
+.table-table-bordered {
+  border: none;
+}
+.table tr,
+.table th,
+.table td {
+  border: none;
+}
